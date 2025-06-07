@@ -1,44 +1,37 @@
-amigogabrielernesto/README.md
-I'm Gabriel Amigo👋
-I'm a Full Stack Developer with a solid experience in Manufacturing and Administrative procesess width strong focus on procesess effectiveness. Passionate about solving real-world problems with scalable and secure solutions.
+# 👋 Hi there, I'm Gabriel Amigo
 
-Lifelong learner and passionate about technology,
-Contact me: amigogabrielernesto@gmail.com
-🧰 Tech & Tools
-TypeScript Node.js NestJS PostgreSQL MongoDB, MS Sql
-Python, VB.net, C#.net
-React Next.js Stripe Auth0 Docker
-Render Vercel Cloudinary OpenAI
+🎯 **Full Stack Developer** with a strong foundation in **Manufacturing and Administrative Processes**, and a sharp focus on **process efficiency** and **real-world problem solving** through **scalable, secure solutions**.
 
-📌 Featured Project
-SmartQR
-A multi-tenant QR ordering platform for restaurants. Clients can scan a QR code at their table and place orders without waitstaff.
-Each restaurant has its own admin panel for managing products, orders, staff, reports, and billing.
+🚀 Now in a new professional chapter, I’m combining decades of business experience with modern web development technologies to deliver impactful results.
 
-Key Contributions:
+---
 
-Part of the backend developing team. Applied JWT & Auth0 for secure user authentication
-Stack: NestJS, PostgreSQL, MongoDB, React, Next.js, Stripe, Auth0, Docker, Recharts, Vercel, Supabase, Cloudinary, OpenAI
+## 🧠 About Me
 
-🚀 Career Aspirations
-Now in a new professional phase, I’ve transitioned into a Full Stack Developer, combining deep business process knowledge with modern technologies. I’m analytical, results-driven, and committed to continuous improvement. I’m open to roles as a developer, analyst, or technical leader.
+- 🎓 Electronics Engineer with a lifelong passion for technology and learning  
+- 💼 Former IT Manager and Business Relationship Leader (Argentina & Latin America)  
+- 🧰 Deep experience in backend systems, business workflows, and cross-functional collaboration  
+- 💬 Fluent in English and Spanish  
 
-📬 Let's connect
-🔗 https://www.linkedin.com/in/amigogabrielernesto/
-💌 amigogabrielernesto@gmail.com
-🧠 GitHub## Hi there 👋
+---
 
-<!--
-**amigogabrielernesto/amigogabrielernesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tech & Tools
 
-Here are some ideas to get you started:
+**Languages & Frameworks:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MS SQL](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+
+**Other Tools:**  
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white)  
+![Auth0](https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)  
+![Vercel](https://img.shields.io/badge/-Vercel-00)
