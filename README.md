@@ -15,6 +15,11 @@
 
 ---
 
+## 🧠 Last Developments Projects
+- 🧰 Back End Developer in Restaurant Management and Self Ordering System Porject: https://smart-qr.tech
+- 🧰 Trade Signals based on YahooFinance data (MACD, RSI, Bollinger Bands, Ishimoku)
+- 🧰 Trading App based on InvertirOnLine API
+
 ## 🧰 Tech & Tools
 
 **Languages & Frameworks:**  
